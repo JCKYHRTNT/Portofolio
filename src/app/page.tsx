@@ -29,7 +29,7 @@ export default function Home() {
         {/* Header */}
         <header className="flex items-center gap-6 mb-6">
           <Image
-            src="/profile.png"
+            src="./profile.png"
             alt="Profile photo"
             width={120}
             height={120}
